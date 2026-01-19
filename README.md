@@ -4,6 +4,8 @@
 
 This project analyzes multi-hospital patient performance data using **Microsoft Excel** to uncover trends in patient volume, costs, hospital utilization, and clinical characteristics. The goal is to demonstrate how raw healthcare data can be transformed into **actionable insights** through structured analysis and interactive dashboards.
 
+![DashBoard](https://github.com/Farhad-UddinS/Healthcare-Analysis-Project/blob/main/Screenshot%202026-01-20%20042320.png)
+
 ## 🎯 Objectives
 
 * Analyze **patient volume trends** across years
@@ -43,7 +45,7 @@ This project analyzes multi-hospital patient performance data using **Microsoft 
 * Medical condition & medication analysis
 * Fully interactive filtering using slicers
 
-
+![Report]
 ## 🔗 Inspiration
 
 This project is **inspired by healthcare analytics case studies found online** and adapted to create a structured, recruiter-friendly Excel dashboard.
