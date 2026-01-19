@@ -45,7 +45,7 @@ This project analyzes multi-hospital patient performance data using **Microsoft 
 * Medical condition & medication analysis
 * Fully interactive filtering using slicers
 
-![Report]
+![Report](https://github.com/Farhad-UddinS/Healthcare-Analysis-Project/blob/main/Screenshot%202026-01-20%20003047.png)
 ## 🔗 Inspiration
 
 This project is **inspired by healthcare analytics case studies found online** and adapted to create a structured, recruiter-friendly Excel dashboard.
