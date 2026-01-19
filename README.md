@@ -52,7 +52,7 @@ This project is **inspired by healthcare analytics case studies found online** a
 
 ## 👤 Author
 
-**Farhad Mahmud**
+**Farhad Uddin**
 Master’s Graduate in Analytics
 
 
